@@ -76,6 +76,10 @@ public class DualGraph {
         }
     }
 
+    /**  
+     * Authored By Mudit Garg 2018TT10922
+    */
+
     public <T> void print(T a) {
         System.out.println(a.toString());
     }

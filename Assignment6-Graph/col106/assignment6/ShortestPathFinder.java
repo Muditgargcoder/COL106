@@ -109,6 +109,10 @@ public class ShortestPathFinder implements ShortestPathInterface {
     //     ShortestPathFinder sp = new ShortestPathFinder(G, s, t, left, right, forward);
     // }
 
+    /**  
+     * Authored By Mudit Garg 2018TT10922
+     */
+
     // Return number of nodes in dual graph
     public int numDualNodes() {
         // YOUR CODE GOES HERE
